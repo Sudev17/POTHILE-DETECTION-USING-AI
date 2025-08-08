@@ -111,3 +111,4 @@ To deploy online:
 
 
 Would you like me to generate a `templates/index.html` file too? Let me know if you're deploying this to GitHub right now—I’ll help with the `.gitignore` and commit structure too.
+
